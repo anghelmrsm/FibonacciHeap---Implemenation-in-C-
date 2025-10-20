@@ -1,4 +1,4 @@
-# FibonacciHeap-Implementation-in-C
+# FibonacciHeap-Implementation-in-C++
 
 ## System Overview  
 This project implements a **Fibonacci Heap** data structure in C++ (though the repository name says “in C”, the source files use C++). This advanced heap supports efficient operations such as insertion, find-minimum, union/merge, decrease-key, and delete-minimum — making it suitable for priority-queue tasks in algorithms like Dijkstra’s or Prim’s.
